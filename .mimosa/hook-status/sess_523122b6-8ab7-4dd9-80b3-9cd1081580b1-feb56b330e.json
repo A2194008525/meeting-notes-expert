@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "mimosa-hook-status/v1",
+  "recordedAt": "2026-09-18T15:46:16.817Z",
+  "sessionId": "sess_523122b6-8ab7-4dd9-80b3-9cd1081580b1",
+  "event": "PostToolUse",
+  "toolName": "Write",
+  "file": "D:\\Computer Software\\31-ZCode shuju\\Daily Use\\publish\\voice-to-minutes\\skills\\funasr-transcribe\\scripts\\diarize.py",
+  "outcome": "static_verified",
+  "coverage": "complete",
+  "findingCount": 1,
+  "durationMs": 521,
+  "hostState": "hook_complete",
+  "reportHint": ".mimosa/reports/"
+}
